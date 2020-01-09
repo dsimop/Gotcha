@@ -21,4 +21,4 @@ The project was inﬂuenced from two diﬀerent platforms. The ﬁrst one was Ca
 <img src="images/results_statistics.PNG" width="70%" height="70%">
 
 
-##### Compyrights: University of Birmingham, UK
+##### Copyrights: University of Birmingham, UK
